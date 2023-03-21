@@ -52,6 +52,12 @@ https://drive.google.com/file/d/1ZVvNx0NfL9fOX1rObnShZgNopQ88sQLB/view?usp=share
 
 
 
+# Screenshots [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+ <img src="1.png"  height="300" width="600"/><br>
+ <img src="2.png"  height="300" width="600"/><br>
+ <img src="3.png"  height="500" width="300"/><br>
+
+
 
 ## Acknowledgments
 
